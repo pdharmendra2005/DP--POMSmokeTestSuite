@@ -1,0 +1,9 @@
+Êþº¾   4 , 
+      !AutomationPractice/Utils/BasePage <init> ()V  .login
+ 
+     org/openqa/selenium/By cssSelector ,(Ljava/lang/String;)Lorg/openqa/selenium/By;	      #AutomationPractice/Pages/CommonPage 
+signInLink Lorg/openqa/selenium/By;	     driver Lorg/openqa/selenium/WebDriver;      org/openqa/selenium/WebDriver findElement :(Lorg/openqa/selenium/By;)Lorg/openqa/selenium/WebElement;   ! " #  org/openqa/selenium/WebElement click Code LineNumberTable LocalVariableTable this %LAutomationPractice/Pages/CommonPage; goToAuthenticationPage 
+SourceFile CommonPage.java !                 $   <     *· *¸ 	µ ±    %   
+      
+ &        ' (    )   $   @     ² *´ ¹  ¹  ±    %   
+       &        ' (    *    +
